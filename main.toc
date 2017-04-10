@@ -1,0 +1,203 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {english}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Students names:}{1}{section*.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{1}{section*.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Date of the submission:}{1}{section*.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}TP1 - \IeC {\'E}tude et analyse du Ring }{4}{chapter.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}Introduction}{5}{section.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}Ring}{5}{section.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.3}Context}{5}{section.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.4}Statistical Analysis}{6}{section.1.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.5}Dynamic Analysis}{7}{section.1.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.6}Ring architecture}{7}{section.1.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.7}4+1 Model}{7}{section.1.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.7.1}Development view}{8}{subsection.1.7.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Usage}{8}{section*.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Diagram}{8}{section*.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Overview}{8}{section*.11}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.7.2}Logical view}{8}{subsection.1.7.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Usage}{8}{section*.13}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Diagram}{9}{section*.14}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Overview}{10}{section*.17}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.7.3}Process view}{11}{subsection.1.7.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Usage}{11}{section*.20}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Diagram}{12}{section*.21}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Overview}{13}{section*.23}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.7.4}Physical view}{13}{subsection.1.7.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Usage}{13}{section*.24}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Diagram}{13}{section*.25}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Overview}{13}{section*.27}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.7.5}Scenarios}{14}{subsection.1.7.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Usage}{14}{section*.28}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Diagram}{14}{section*.29}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.7.6}Performance View}{18}{subsection.1.7.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.8}Design Patterns}{18}{section.1.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.9}Conclusion}{19}{section.1.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}TP2 - R\IeC {\'e}usinage Architectural du code Ring}{20}{chapter.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Introduction}{21}{section.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Ring}{21}{section.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.3}Code Quality Analysis}{21}{section.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.1}Code Scene}{21}{subsection.2.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.2}Better Code Hub}{24}{subsection.2.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.4}Ptidej}{25}{section.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.5}Design Patterns}{25}{section.2.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.5.1}Factory Method}{25}{subsection.2.5.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Definition}{25}{section*.36}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Motivation}{25}{section*.37}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Intent}{25}{section*.38}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Identification}{25}{section*.39}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Example of Code}{26}{section*.40}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Analysis}{26}{section*.41}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Diagram}{26}{section*.42}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.5.2}Singleton}{27}{subsection.2.5.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Motivation}{27}{section*.44}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Intent}{27}{section*.45}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Identification}{27}{section*.46}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Example of Code}{27}{section*.47}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.5.3}Model View Controller}{27}{subsection.2.5.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Motivation}{28}{section*.48}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Identification}{28}{section*.49}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Diagram}{28}{section*.50}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.5.4}Template Pattern}{28}{subsection.2.5.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Intent}{28}{section*.52}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Example of Code}{28}{section*.53}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Analysis}{29}{section*.54}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Identification}{29}{section*.55}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.6}Anti Pattern}{29}{section.2.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.6.1}Dead Code}{29}{subsection.2.6.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Explanation}{29}{section*.56}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Identification}{29}{section*.57}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Code example}{29}{section*.58}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Analysis}{29}{section*.59}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Solution}{29}{section*.60}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.6.2}Complex Class}{30}{subsection.2.6.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Explanation}{30}{section*.61}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Code example}{30}{section*.62}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Analysis}{30}{section*.63}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Solution}{30}{section*.64}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.6.3}Blob}{30}{subsection.2.6.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Explanation}{30}{section*.66}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Code example}{30}{section*.67}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Analysis}{30}{section*.68}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Solution}{30}{section*.69}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.7}Problem Exposed}{31}{section.2.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.7.1}Description of the Exposed problem}{31}{subsection.2.7.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.7.2}Proposal of Solution}{31}{subsection.2.7.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.8}Conclusion}{33}{section.2.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}TP3 - Impl\IeC {\'e}mentation et contribution au projet Ring }{34}{chapter.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}Introduction}{35}{section.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Description of the problem}{35}{section.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.1}Description of the Exposed problem}{35}{subsection.3.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.2}Proposal of Solution}{35}{subsection.3.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}Analysis}{36}{section.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.1}Testing}{36}{subsection.3.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Test case : XXXXXXX}{36}{section*.72}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.2}Code Metrics}{36}{subsection.3.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.3}Code Improvements}{36}{subsection.3.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.4}Pull Request}{36}{section.3.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.5}Conclusion}{36}{section.3.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {A}TP1 - Appendices}{37}{appendix.A}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {B}TP2 - Appendices}{38}{appendix.B}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Quality metrics}{38}{section*.73}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {C}TP3 - Appendices}{39}{appendix.C}

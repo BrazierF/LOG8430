@@ -1,0 +1,82 @@
+\documentclass[11pt]{report}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage[english]{babel}
+\usepackage{fullpage}
+\usepackage{ragged2e}
+\usepackage{appendix}
+\usepackage{subcaption}
+\usepackage{indentfirst}
+\usepackage{attachfile}
+\usepackage{subfiles}
+\usepackage[backend=biber]{biblatex}
+\addbibresource{TP1/sample.bib}
+\addbibresource{TP2/sample.bib}
+\addbibresource{TP3/sample.bib}
+
+\def\titre{}
+\def\auteur{}
+\def\courriel{}
+\makeatletter
+
+\title{LOG8430\\Architecture logicielle et conception avanc\'{e}e}
+\author{
+    Yann-Gaël Guéhéneuc \\
+    Fabio Petrillo \\
+    D\'{e}partement G\'{e}nie Informatique et G\'{e}nie Logiciel \\
+    \'{E}cole Polytechnique de Montr\'{e}al, Qu\'{e}bec, Canada \\
+    \texttt{yann-gael.gueheneuc[at]polymtl.ca} \\
+    \texttt{Fabio[at]petrillo.com}
+}
+
+\date{\today}
+\usepackage{url}
+\usepackage{float}
+\begin{document}
+{\let\newpage\relax\maketitle}
+\begin{figure}[ht!]
+\centering
+\includegraphics[width=90mm]{TP1/images/ring.png}
+\end{figure}
+
+\paragraph{Students names:}
+\centering
+\paragraph{} \auteur
+Isnaldo Francisco de Melo jr\\
+Franck Brazier\\
+Stephane Fagnon\\
+
+\centering
+
+\paragraph{Date of the submission:}
+\today
+\newpage
+
+\tableofcontents
+
+\raggedright
+\chapter{TP1 - Étude et analyse du Ring }
+\input{content-TP1.tex}
+\newpage
+\chapter{TP2 - Réusinage Architectural du code Ring}
+\input{content-TP2.tex}
+\newpage
+\chapter{TP3 - Implémentation et contribution au projet Ring }
+\input{content-TP3.tex}
+
+
+\appendix
+\chapter{TP1 - Appendices}
+\input{TP1/appendix.tex}
+\chapter{TP2 - Appendices}
+\input{TP2/appendix.tex}
+\chapter{TP3 - Appendices}
+\input{TP3/appendix.tex}
+
+
+\printbibliography
+
+
+
+\end{document}

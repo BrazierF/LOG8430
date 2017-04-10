@@ -1,0 +1,287 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.8 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist[entry]{nty/global/}
+    \entry{lttng}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=c72c4f8926f28152c87d103535505993}{%
+           family={EfficiOS},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{c72c4f8926f28152c87d103535505993}
+      \strng{fullhash}{c72c4f8926f28152c87d103535505993}
+      \strng{authornamehash}{c72c4f8926f28152c87d103535505993}
+      \strng{authorfullhash}{c72c4f8926f28152c87d103535505993}
+      \field{sortinit}{E}
+      \field{sortinithash}{07bbd5a529b5beaa311df5be05b874bc}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{http://lttng.org/docs/v2.9/}}
+      \field{note}{[Online; accessed 27-January-2017]}
+      \field{title}{LTTng Documents}
+    \endentry
+    \entry{gnu_compiler}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=40b8c7d11468f3d240c8f37b5946d0ab}{%
+           family={Gnu},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{40b8c7d11468f3d240c8f37b5946d0ab}
+      \strng{fullhash}{40b8c7d11468f3d240c8f37b5946d0ab}
+      \strng{authornamehash}{40b8c7d11468f3d240c8f37b5946d0ab}
+      \strng{authorfullhash}{40b8c7d11468f3d240c8f37b5946d0ab}
+      \field{sortinit}{G}
+      \field{sortinithash}{618d986594b7198ba52cf8b00d348f3f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://gcc.gnu.org/onlinedocs/gcc/Instrumentation-Options.html}}
+      \field{note}{[Online; accessed 27-January-2017]}
+      \field{title}{Instrumentation Options}
+    \endentry
+    \entry{pat1}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=cbf44511d041dc6d1dd73cc0c033122c}{%
+           family={IBM},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{fullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authornamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorfullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \field{sortinit}{I}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.ibm.com/developerworks/java/tutorials/j-patterns/j-patterns.html}}
+      \field{note}{[Online; accessed 30-January-2017]}
+      \field{title}{Java Design Patterns 101}
+    \endentry
+    \entry{pat2}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=cbf44511d041dc6d1dd73cc0c033122c}{%
+           family={IBM},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{fullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authornamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorfullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \field{sortinit}{I}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.ibm.com/support/knowledgecenter/en/SSZLC2_7.0.0/com.ibm.commerce.developer.doc/concepts/csdmvcdespat.htm}}
+      \field{note}{[Online; accessed 30-January-2017]}
+      \field{title}{Model-View-Controller design pattern}
+    \endentry
+    \entry{ibm}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=cbf44511d041dc6d1dd73cc0c033122c}{%
+           family={IBM},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{fullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authornamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorfullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \field{sortinit}{I}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{http://www.ibm.com/support/knowledgecenter/SSX3HK_6.5.0/com.ibm.cdcdoc.mcadminguide.doc/concepts/performance_view_monitoring_perspective.html/}}
+      \field{note}{[Online; accessed 27-January-2017]}
+      \field{title}{Performance View}
+    \endentry
+    \entry{uftrace}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=ef29a3861cda8618c86304b5fda3a21b}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Namhyung},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{ef29a3861cda8618c86304b5fda3a21b}
+      \strng{fullhash}{ef29a3861cda8618c86304b5fda3a21b}
+      \strng{authornamehash}{ef29a3861cda8618c86304b5fda3a21b}
+      \strng{authorfullhash}{ef29a3861cda8618c86304b5fda3a21b}
+      \field{sortinit}{K}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://github.com/namhyung/uftrace}}
+      \field{note}{[Online; accessed 27-January-2017]}
+      \field{title}{uftrace in github}
+    \endentry
+    \entry{blueprints}{article}{}
+      \name{author}{1}{}{%
+        {{hash=1d00515fe991ba26ce9b4c5ca06934fa}{%
+           family={Kruchten},
+           familyi={K\bibinitperiod},
+           given={Philippe},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{1d00515fe991ba26ce9b4c5ca06934fa}
+      \strng{fullhash}{1d00515fe991ba26ce9b4c5ca06934fa}
+      \strng{authornamehash}{1d00515fe991ba26ce9b4c5ca06934fa}
+      \strng{authorfullhash}{1d00515fe991ba26ce9b4c5ca06934fa}
+      \field{sortinit}{K}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{http://www.cs.ubc.ca/~gregor/teaching/papers/4+1view-architecture.pdf/}}
+      \field{journaltitle}{IEEE Software}
+      \field{number}{6}
+      \field{title}{Architectural Blueprints — The “4+1” View Model of Software Architecture}
+      \field{volume}{12}
+      \field{year}{1995}
+      \field{pages}{42\bibrangedash 50}
+      \range{pages}{9}
+    \endentry
+    \entry{anti-book}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=b93908fc242a783177f464e988f68eda}{%
+           family={Neill},
+           familyi={N\bibinitperiod},
+           given={Colin\bibnamedelima J.},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=6a197f0d532487eadba3bc774d1d8489}{%
+           family={Laplante},
+           familyi={L\bibinitperiod},
+           given={Philip\bibnamedelima A.},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{41b91c780d064421434414245017d25a}
+      \strng{fullhash}{41b91c780d064421434414245017d25a}
+      \strng{authornamehash}{41b91c780d064421434414245017d25a}
+      \strng{authorfullhash}{41b91c780d064421434414245017d25a}
+      \field{sortinit}{N}
+      \field{sortinithash}{1163c28585427c673ad5a010cbf82f52}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Antipatterns: Identification, Refactoring, and Management}
+    \endentry
+    \entry{modeling}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=731ba597e4ee03026f2778e07a74e92b}{%
+           family={Parnitzke},
+           familyi={P\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{731ba597e4ee03026f2778e07a74e92b}
+      \strng{fullhash}{731ba597e4ee03026f2778e07a74e92b}
+      \strng{authornamehash}{731ba597e4ee03026f2778e07a74e92b}
+      \strng{authorfullhash}{731ba597e4ee03026f2778e07a74e92b}
+      \field{sortinit}{P}
+      \field{sortinithash}{24100cef455d7974167575052c29146e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://pragmaticarchitect.wordpress.com/2009/04/16/modeling-the-mdm-blueprint-part-v}}
+      \field{note}{[Online; accessed 30-January-2017]}
+      \field{title}{Modeling the MDM Blueprint – Part V}
+    \endentry
+    \entry{perry-wolf}{article}{}
+      \name{author}{2}{}{%
+        {{hash=00d75b7256df3a3ff8a84205acaed608}{%
+           family={Perry},
+           familyi={P\bibinitperiod},
+           given={Dewayne\bibnamedelima E.},
+           giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=4d4cb6685b95c81c4b9ad177b60a7e59}{%
+           family={Wolf},
+           familyi={W\bibinitperiod},
+           given={Alexander\bibnamedelima L.},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{88878223c719b556259fbdc9a6290c2a}
+      \strng{fullhash}{88878223c719b556259fbdc9a6290c2a}
+      \strng{authornamehash}{88878223c719b556259fbdc9a6290c2a}
+      \strng{authorfullhash}{88878223c719b556259fbdc9a6290c2a}
+      \field{sortinit}{P}
+      \field{sortinithash}{24100cef455d7974167575052c29146e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{http://users.ece.utexas.edu/~perry/work/papers/swa-sen.pdf/}}
+      \field{journaltitle}{ACM SIGSOFT SOFTWARE ENGINEERING NOTES}
+      \field{number}{4}
+      \field{title}{Foundations for the Study of Software Architecture}
+      \field{volume}{17}
+      \field{year}{1992}
+      \field{pages}{40}
+      \range{pages}{1}
+    \endentry
+    \entry{doxygen}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=d4db177c94738b72bf9ce61e988ab1f1}{%
+           family={Ring},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{d4db177c94738b72bf9ce61e988ab1f1}
+      \strng{fullhash}{d4db177c94738b72bf9ce61e988ab1f1}
+      \strng{authornamehash}{d4db177c94738b72bf9ce61e988ab1f1}
+      \strng{authorfullhash}{d4db177c94738b72bf9ce61e988ab1f1}
+      \field{sortinit}{R}
+      \field{sortinithash}{c15bc8eb6936bc6b3c8baa9e8575af53}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://test.savoirfairelinux.com/job/ring-daemon-doc/doxygen/}}
+      \field{note}{[Online; accessed 27-January-2017]}
+      \field{title}{Code documentation}
+    \endentry
+    \entry{ring}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=d4db177c94738b72bf9ce61e988ab1f1}{%
+           family={Ring},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{d4db177c94738b72bf9ce61e988ab1f1}
+      \strng{fullhash}{d4db177c94738b72bf9ce61e988ab1f1}
+      \strng{authornamehash}{d4db177c94738b72bf9ce61e988ab1f1}
+      \strng{authorfullhash}{d4db177c94738b72bf9ce61e988ab1f1}
+      \field{sortinit}{R}
+      \field{sortinithash}{c15bc8eb6936bc6b3c8baa9e8575af53}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://ring.cx/}}
+      \field{note}{[Online; accessed 27-January-2017]}
+      \field{title}{Initial page}
+    \endentry
+    \entry{understand}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=45884c26fee79cb915a824922943eee4}{%
+           family={Scitools},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{45884c26fee79cb915a824922943eee4}
+      \strng{fullhash}{45884c26fee79cb915a824922943eee4}
+      \strng{authornamehash}{45884c26fee79cb915a824922943eee4}
+      \strng{authorfullhash}{45884c26fee79cb915a824922943eee4}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://scitools.com/trial-download-3/}}
+      \field{note}{[Online; accessed 27-January-2017]}
+      \field{title}{Implementing Agile in very large enterprises}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+

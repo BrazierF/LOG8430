@@ -9,6 +9,7 @@
 \usepackage{subcaption}
 \usepackage{indentfirst}
 \usepackage{attachfile}
+
 \usepackage{subfiles}
 \usepackage[backend=biber]{biblatex}
 \addbibresource{TP1/sample.bib}
@@ -54,8 +55,18 @@ Stephane Fagnon\\
 \newpage
 
 \tableofcontents
+\newpage
 
-\raggedright
+\justify
+
+\chapter*{Introduction}
+\input{introduction.tex}
+
+{\let\clearpage\relax \chapter*{Ring}
+\subfile{TP1/ring.tex}
+Ring is involved in the Free Software philosophy; that is proved  by the fact that it is a GNU\cite{GNU} package \cite{official_blog}. 
+}
+
 \chapter{TP1 - Étude et analyse du Ring }
 \input{content-TP1.tex}
 \newpage
@@ -66,9 +77,12 @@ Stephane Fagnon\\
 \input{content-TP3.tex}
 
 
+\chapter*{Conclusion}
+\input{conclusion.tex}
+
 \appendix
 \chapter{TPs Changes}
-\section{Changes}
+%\section{Changes}
 \input{TP3/changes.tex}
 \chapter{TP1 - Appendices}
 \input{TP1/appendix.tex}
